@@ -1,0 +1,8 @@
+program programaPrueba;
+Var
+z: Integer;
+x: real;
+
+BEGIN
+  9a = 10,5;
+END.
